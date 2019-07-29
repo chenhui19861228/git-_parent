@@ -1,0 +1,3 @@
+[submodule "ChileModule"]
+	path = ChileModule
+	url = https://github.com/chenhui19861228/git_child
